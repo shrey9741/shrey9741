@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Shrey+Kumar&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Builder&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Shrey+Kumar&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%7C%20Python%20Developer%20%7C%20Builder&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+AI+systems+that+actually+ship+%F0%9F%9A%80;LLMs+%2B+RAG+%2B+Agentic+Pipelines+%2B+Clean+UIs;From+idea+%E2%86%92+deployed+product+in+48h+%E2%9A%A1;Open+to+SWE+%2F+AI+%2F+ML+Internships+%F0%9F%91%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+AI+systems+that+actually+ship+%F0%9F%9A%80;LLMs+%2B+RAG+%2B+Agentic+Pipelines;From+idea+%E2%86%92+deployed+product+in+48h+%E2%9A%A1;Open+to+AI+%2F+ML+%2F+Data+Internships+%F0%9F%91%80" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -22,7 +22,7 @@
 ```python
 shrey = {
     "name":       "Shrey Kumar",
-    "role":       "AI/ML Engineer & Full-Stack Developer",
+    "role":       "AI / ML Engineer & Python Developer",
     "focus":      ["LLM Applications", "RAG Systems", "Agentic Pipelines"],
     "stack":      ["Python", "FastAPI", "Streamlit", "LangChain", "FAISS", "Groq"],
     "currently":  "Building AI portfolio projects | Open to 2025 internships",
@@ -31,7 +31,7 @@ shrey = {
 }
 ```
 
-I'm a student developer obsessed with shipping end-to-end AI products — from multi-agent pipeline architecture through frontend polish and cloud deployment. I don't just prototype; I build things people can actually use.
+I'm a student developer focused on shipping end-to-end AI products — from multi-agent pipeline architecture through deployment. I don't just prototype; I build things people can actually use.
 
 ---
 
@@ -138,14 +138,10 @@ End-to-end ML platform for underwater computer vision and marine robotic autonom
 ![FAISS](https://img.shields.io/badge/FAISS-0064A5?style=for-the-badge&logo=meta&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white)
 
-**Backend & Frontend**
+**Backend & Deployment**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-**Deployment & Tools**
-
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Streamlit Cloud](https://img.shields.io/badge/Streamlit%20Cloud-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
