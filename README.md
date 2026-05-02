@@ -154,8 +154,6 @@ End-to-end ML platform for underwater computer vision and marine robotic autonom
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shrey9741&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&rank_icon=github"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrey9741&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8"/>
